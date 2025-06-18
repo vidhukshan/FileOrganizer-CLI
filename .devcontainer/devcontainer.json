@@ -1,0 +1,4 @@
+{
+  "name": "Swift",
+  "image": "ghcr.io/devcontainers/swift:latest"
+}
